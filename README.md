@@ -5,3 +5,6 @@ Lightweight local math &amp; puzzle solver using Qwen2.5-1.5B GGUF (llama.cpp) +
 ## 🎥 Demo Local_Math_Solver_LLM Video Clips
 
 Here are short clips showing **Local_Math_Solver_LLM**
+
+
+
