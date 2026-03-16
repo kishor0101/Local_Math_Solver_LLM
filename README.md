@@ -4,7 +4,10 @@ Lightweight local math &amp; puzzle solver using Qwen2.5-1.5B GGUF (llama.cpp) +
 ## Demo Local_Math_Solver_LLM Video Clips
 
 
-Here are short clips showing **Local_Math_Solver_LLM**
+
+
+https://github.com/user-attachments/assets/29a6827c-8e07-40be-9b6d-032ed765de8d
+
 
 
 
